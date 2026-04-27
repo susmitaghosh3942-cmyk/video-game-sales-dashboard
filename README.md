@@ -21,6 +21,11 @@ This project analyzes video game sales data using Power BI to identify trends, t
 * Excel Dataset
 
 ---
+## 📊 Dashboard Preview
+
+![Dashboard 1](Dashboard_page1.png.png)
+
+![Dashboard 2](Dashboard_page2.png.png)
 
 ## 📊 Dashboard Features
 
